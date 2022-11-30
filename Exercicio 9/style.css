@@ -1,0 +1,63 @@
+img{
+    position: absolute
+}
+.metros{ 
+    position: absolute;
+    width: 109px;
+    height: 29px;
+    left: 29px;
+    top: 82px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #333333;
+}
+
+.centimetros{
+    position: absolute;
+    width: 187px;
+    height: 29px;
+    left: 29px;
+    top: 199px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+     
+    color: #333333; 
+}
+.botao{
+position: absolute;
+width: 187px;
+height: 51px;
+left: 29px;
+top: 320px;
+
+background: #0D0D0D;
+border-radius: 60px;
+
+
+/* CONVERTER */
+
+
+position: absolute;
+width: 125px;
+height: 24px;
+left: 60px;
+top: 333px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #E8E8E8;
+}
