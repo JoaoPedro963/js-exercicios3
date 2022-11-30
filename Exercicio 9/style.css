@@ -41,13 +41,11 @@ left: 29px;
 top: 320px;
 
 background: #0D0D0D;
-border-radius: 60px;}
+border-radius: 60px;
+}
 
-
-/* CONVERTER */
-
-
-/* position: absolute;
+.converter{
+position: absolute;
 width: 125px;
 height: 24px;
 left: 60px;
@@ -60,4 +58,6 @@ font-size: 20px;
 line-height: 24px;
 
 color: #E8E8E8;
-} */
+}
+
+
